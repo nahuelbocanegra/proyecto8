@@ -1,4 +1,6 @@
-function name(params) {
-    
+function Character(params) {
+    return(
+        <h2>   Character    </h2>
+    )
 }
-export default name;
+export default Character ;

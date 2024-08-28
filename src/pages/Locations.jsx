@@ -1,4 +1,6 @@
-function name(params) {
-    
+function Locations(params) {
+    return(
+        <h2>Locations</h2>
+    )    
 }
-export default name;
+export default Locations;
